@@ -1,0 +1,45 @@
+# macOS and editor metadata
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+.vscode/
+.idea/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Large or private raw production files
+raw/
+recordings/
+exports/
+bounces/
+deliverables/
+*.wav
+*.aiff
+*.aif
+*.flac
+*.mp3
+*.m4a
+*.mp4
+*.mov
+*.mkv
+*.aup3
+*.logicx
+*.als
+*.sesx
+
+# Generated local outputs
+output/
+tmp/
+.cache/
+node_modules/
+__pycache__/
+.pytest_cache/
+
+# Keep release-ready text assets in git; add specific exceptions later if needed.
