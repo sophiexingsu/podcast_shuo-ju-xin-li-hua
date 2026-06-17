@@ -1,4 +1,4 @@
-# Underpaid Overeduated Podcast Workspace
+# 说句心里话 Podcast Workspace
 
 Private production workspace for planning, recording, editing, publishing, and improving the podcast.
 
@@ -6,11 +6,11 @@ This repo is meant to be cloned by all cohosts so everyone shares the same conte
 
 ## Podcast Description
 
-`高知不高值` 是一档由两个北美博士后主持的半认真对谈播客。我们聊 AI、认知科学、心理学和普通生活，但不急着把它们变成自我提升工具、效率方法论或职场生产力。
+`说句心里话` 是一档从真实感受出发的半认真对谈播客。我们可以从一场演唱会、一段追星经历、一条热搜或一个日常尴尬聊起，也可以一路聊到 AI、认知科学、心理学、公共议题和严肃科学问题。
 
-两位主播都曾在顶尖学术范式里受训，也都从那里毕业离场；我们懂那些通往“优秀”的路径，却并不觉得自己属于社会意义上的前 1%。比起成为更高效的劳动者，我们更关心如何让生活重新流动起来，如何保留好奇、幽默、创造力和一点不合时宜的希望。
+我们关心流行文化和饭圈文化里的情绪、关系、身份和权力，也关心科学知识如何改变我们理解世界的方式。话题可以轻，也可以重；可以很好笑，也可以很认真。重要的是不急着给标准答案，而是把那些想了很久、但平时不一定说出口的话讲清楚。
 
-这里不提供成功学公式，也不教你如何成为 AI 时代最不可替代的人。我们只是想把知识拿来玩，拿来想象，拿来讨论失败、关系、荒诞感和普通人的精神出路。
+这里不是学术讲座，也不是情绪树洞。我们想用一点好奇心、批判性和幽默感，把生活里看似不相干的东西连起来：喜欢什么、相信什么、为什么生气、为什么被打动，以及我们如何在复杂世界里继续保持判断和感受。
 
 ## Quick Start
 
@@ -18,7 +18,7 @@ This repo is meant to be cloned by all cohosts so everyone shares the same conte
 
    ```bash
    git clone <private-repo-url>
-   cd podcast_Underpaid_Overeduated
+   cd podcast_shuo-ju-xin-li-hua
    ```
 
 2. Read the shared context:

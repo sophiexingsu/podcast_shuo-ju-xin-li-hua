@@ -6,7 +6,7 @@ Use this guide for cohosts who need to download and update the workspace.
 
 ```bash
 git clone <private-repo-url>
-cd podcast_Underpaid_Overeduated
+cd podcast_shuo-ju-xin-li-hua
 ```
 
 ## Get Updates
